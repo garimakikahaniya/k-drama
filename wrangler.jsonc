@@ -1,0 +1,10 @@
+{
+  "name": "k-drama",
+  "compatibility_date": "2026-11-05",
+  "compatibility_flags": ["nodejs_compat"],
+  "main": "./.output/server/index.mjs",
+  "assets": {
+    "directory": "./.output/public"
+  },
+  "observability": { "enabled": true }
+}
